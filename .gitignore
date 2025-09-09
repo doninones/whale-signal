@@ -2,3 +2,16 @@
 node_modules/
 .env
 data/
+
+# OS cruft
+.DS_Store
+**/.DS_Store
+
+# Secrets
+.env
+
+# Data
+/data/
+
+# Node
+node_modules/
